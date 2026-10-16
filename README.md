@@ -1,4 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+
+I'm Ryuki Shimada, a Ph.D. student at Keio University, Japan.
+
+My research focuses on autonomous navigation and exploration of mobile robots in hazardous environments, particularly using visual and force sensing for tethered robotic systems.
+
+You can learn more about me via:
+
+[Website](https://rieuky.github.io/)
 
 <!--
 **rieuky/rieuky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
